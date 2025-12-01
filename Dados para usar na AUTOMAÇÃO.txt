@@ -1,0 +1,51 @@
+ID,SKU,Produto,Categoria,Preco_Unitario,Qtd_Atual,Estoque_Minimo,Status
+1,SKU-1001,Monitor LED 24",TI,850.00,105,15,OK
+2,SKU-1002,Cabo HDMI 2.0,TI,25.00,8,12,REPOR
+3,SKU-1003,Parafuso Sextavado M6,Ferragens,0.15,200,50,OK
+4,SKU-1004,Cadeira de Escritório,Mobiliário,450.00,5,8,REPOR
+5,SKU-1005,Mouse Óptico Sem Fio,TI,65.00,45,20,OK
+6,SKU-1006,Caixa de Papelão G,Embalagem,4.50,120,100,OK
+7,SKU-1007,Fita Adesiva 50m,Embalagem,8.50,15,30,REPOR
+8,SKU-1008,Lâmpada LED 9W,Elétrica,12.00,50,20,OK
+9,SKU-1009,Teclado Mecânico RGB,TI,250.00,12,15,REPOR
+10,SKU-1010,SSD NVMe 500GB,Hardware,300.00,25,10,OK
+11,SKU-1011,Porca M10 Inox,Ferragens,0.08,500,100,OK
+12,SKU-1012,Mesa em L,Mobiliário,600.00,2,5,REPOR
+13,SKU-1013,Cabo de Rede CAT6 2m,TI,15.00,80,40,OK
+14,SKU-1014,Fonte 500W 80 Plus,Hardware,250.00,18,10,OK
+15,SKU-1015,Estabilizador 300VA,Elétrica,150.00,3,10,REPOR
+16,SKU-1016,Arruela de Pressão 1/4,Ferragens,0.05,350,200,OK
+17,SKU-1017,Placa Mãe B450,Hardware,700.00,8,12,REPOR
+18,SKU-1018,Bobina Plástico Bolha,Embalagem,35.00,40,15,OK
+19,SKU-1019,Óculos de Segurança,EPI,18.00,22,20,OK
+20,SKU-1020,Processador Ryzen 5,Hardware,1200.00,5,8,REPOR
+21,SKU-1021,Luva de Proteção,EPI,12.00,150,50,OK
+22,SKU-1022,Etiqueta Térmica,Embalagem,15.00,8,25,REPOR
+23,SKU-1023,Filtro de Linha 6 tomadas,Elétrica,45.00,35,15,OK
+24,SKU-1024,Memória RAM 8GB,Hardware,200.00,60,30,OK
+25,SKU-1025,Caixa de Papelão P,Embalagem,2.50,10,50,REPOR
+26,SKU-1026,Monitor LED 24",TI,850.00,22,15,OK
+27,SKU-1027,Parafuso Sextavado M6,Ferragens,0.15,45,60,REPOR
+28,SKU-1028,Cadeira de Escritório,Mobiliário,450.00,12,10,OK
+29,SKU-1029,Cabo HDMI 2.0,TI,25.00,33,12,OK
+30,SKU-1030,Teclado Mecânico RGB,TI,250.00,4,10,REPOR
+31,SKU-1031,Mouse Óptico Sem Fio,TI,65.00,28,20,OK
+32,SKU-1032,Fita Adesiva 50m,Embalagem,8.50,55,30,OK
+33,SKU-1033,Lâmpada LED 9W,Elétrica,12.00,18,20,REPOR
+34,SKU-1034,SSD NVMe 500GB,Hardware,300.00,5,10,REPOR
+35,SKU-1035,Mesa em L,Mobiliário,600.00,8,5,OK
+36,SKU-1036,Cabo de Rede CAT6 2m,TI,15.00,15,40,REPOR
+37,SKU-1037,Porca M10 Inox,Ferragens,0.08,90,100,REPOR
+38,SKU-1038,Fonte 500W 80 Plus,Hardware,250.00,25,10,OK
+39,SKU-1039,Estabilizador 300VA,Elétrica,150.00,12,10,OK
+40,SKU-1040,Placa Mãe B450,Hardware,700.00,15,12,OK
+41,SKU-1041,Bobina Plástico Bolha,Embalagem,35.00,5,15,REPOR
+42,SKU-1042,Arruela de Pressão 1/4,Ferragens,0.05,250,200,OK
+43,SKU-1043,Óculos de Segurança,EPI,18.00,15,20,REPOR
+44,SKU-1044,Processador Ryzen 5,Hardware,1200.00,10,8,OK
+45,SKU-1045,Luva de Proteção,EPI,12.00,40,50,REPOR
+46,SKU-1046,Etiqueta Térmica,Embalagem,15.00,30,25,OK
+47,SKU-1047,Filtro de Linha 6 tomadas,Elétrica,45.00,10,15,REPOR
+48,SKU-1048,Memória RAM 8GB,Hardware,200.00,20,30,REPOR
+49,SKU-1049,Caixa de Papelão P,Embalagem,2.50,150,50,OK
+50,SKU-1050,Monitor LED 24",TI,850.00,18,15,OK
