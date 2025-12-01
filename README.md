@@ -1,0 +1,1 @@
+# automacao-estoque-power-automate
